@@ -6,8 +6,8 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 > Goal
 
-Get out from YouTube tutorial rabbit hole and actually try the theory
+Get out from YouTube tutorial rabbit hole and actually try the theory 😜
 
-> Software/Tools used
+> Software/Tools used 🐱‍👤
 
 SSMS 21, Microsoft SQL Server 2022 (RTM) Express Edition
