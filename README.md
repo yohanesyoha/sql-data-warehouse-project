@@ -6,7 +6,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 > Goal
 
-Get out from YouTube tutorial rabbit hole and actually try the theory 😜
+To learn by doing data warehouse project
 
 > Software/Tools used 🐱‍👤
 
