@@ -1,4 +1,5 @@
 --Stored procedure to load data into silver layer from bronze layer
+--Data are cleaned and transformed
 
 CREATE OR ALTER PROCEDURE [silver].[load_silver] AS
 BEGIN
