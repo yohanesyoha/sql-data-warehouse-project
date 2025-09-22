@@ -1,5 +1,6 @@
---Stored procedure to load data into silver layer from bronze layer
+--Stored procedure to load data into silver layer from bronze layer (ETL)
 --Data are cleaned and transformed
+
 
 CREATE OR ALTER PROCEDURE [silver].[load_silver] AS
 BEGIN
