@@ -21,7 +21,7 @@
 # Others
 
 ### Primary Key
-- Format: `table_name.key`  
+- Format: `(table_name).key`  
 - Example: `customer_key` → surrogate key in `dim_customers` table  
 
 ### Technical Columns
