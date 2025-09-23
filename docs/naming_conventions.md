@@ -25,7 +25,7 @@
 - Example: `customer_key` → surrogate key in `dim_customers` table  
 
 ### Technical Columns
-- Format: `dwh_column_name`  
+- Format: `dwh_(column_name)`  
 - Example: `dwh_create_date`  
 
 ### Stored Procedure
